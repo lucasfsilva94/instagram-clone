@@ -18,9 +18,9 @@ Projeto Instagram clone desenvolvido na video aula conduzida pelo [Sonny Sangha]
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- [React.JS](https://dotnet.microsoft.com/)
-- [Next.JS](https://github.com/dotnet/efcore)
-- [Tailwind CSS](https://azure.microsoft.com/en-us/products/azure-sql/database/)
+- [React.JS](https://reactjs.org/)
+- [Next.JS](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 
 ## 🚀 Demo
