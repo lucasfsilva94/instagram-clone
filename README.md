@@ -1,29 +1,53 @@
-# Next.js + Tailwind CSS Example
+<h1 align="center">
+  <img alt="instagram" src="https://user-images.githubusercontent.com/22107794/139711201-2a6c05d0-804e-47e6-af3e-af90a6ee6a3b.png" width="160px">  
+  <br>
+  <span> Instagram Clone </span>
+</h1>
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+<p align="center">
+    <img alt="instagram" src="https://user-images.githubusercontent.com/22107794/139711008-321f19ea-00e7-4184-9919-7bba312f0284.png" />
+</p>
 
-## Preview
+<br>
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+## 💻 Projeto
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+Projeto Instagram clone desenvolvido na video aula conduzida pelo [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
 
-## Deploy your own
+## 🧪 Tecnologias
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+- [React.JS](https://dotnet.microsoft.com/)
+- [Next.JS](https://github.com/dotnet/efcore)
+- [Tailwind CSS](https://azure.microsoft.com/en-us/products/azure-sql/database/)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
 
-## How to use
+## 🚀 Demo
+Demostração da aplicação Web
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+### 💻 Web
+https://instagram-clone-eight-eosin.vercel.app/
+
+## ⌨ Como executar
+
+Para clonar e rodar essa aplicação, você vai precisar do [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/)
 
 ```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+# Clone o Repositorio
+$ git clone https://github.com/lucasfsilva94/instagram-clone.git
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+### Rodar o projeto Web
+
+```bash
+
+# Instale as Dependencias
+$ npm install
+
+# Rode a aplicação
+$ npm run dev
+```
+Acesse http://localhost:3000/ para ver o resultado
+
+---
