@@ -13,7 +13,7 @@
 
 ## 💻 Projeto
 
-Projeto Instagram clone desenvolvido na video aula conduzida pelo [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
+Projeto Instagram clone de interface desenvolvido na video aula conduzida pelo [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
 
 ## 🛠 Tecnologias
 
