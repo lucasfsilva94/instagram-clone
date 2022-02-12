@@ -21,7 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React.JS](https://reactjs.org/)
 - [Next.JS](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Faker.js](https://github.com/marak/Faker.js/)
 - [randomuser.me](https://randomuser.me/)
 - [Unsplash Image API](https://source.unsplash.com/)
 
